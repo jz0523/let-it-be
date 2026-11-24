@@ -1,0 +1,49 @@
+{
+  "note": "Sealed Box item sets. 'items' go in the box; 'extras' are the other things on the table. Levels 1-2 use 3 items, 3-4 use 4, level 5 uses 5.",
+  "items": [
+    { "level": 1, "theme": "Picnic", "items": ["apple", "sandwich", "napkin"], "extras": ["fork", "lemon", "candle"] },
+    { "level": 1, "theme": "Art kit", "items": ["brush", "pencil", "eraser"], "extras": ["glue", "ruler", "chalk"] },
+    { "level": 1, "theme": "Beach bag", "items": ["towel", "hat", "bucket"], "extras": ["kite", "shell", "book"] },
+    { "level": 1, "theme": "Breakfast", "items": ["bread", "jam", "butter"], "extras": ["honey", "egg", "milk"] },
+    { "level": 1, "theme": "Sewing", "items": ["thread", "needle", "button"], "extras": ["ribbon", "pin", "thimble"] },
+    { "level": 1, "theme": "Garden", "items": ["seeds", "trowel", "gloves"], "extras": ["twine", "label", "pot"] },
+    { "level": 1, "theme": "Desk", "items": ["pen", "notebook", "stamp"], "extras": ["clip", "tape", "envelope"] },
+    { "level": 1, "theme": "Tea time", "items": ["teapot", "cup", "spoon"], "extras": ["sugar", "lemon", "saucer"] },
+
+    { "level": 2, "theme": "Camping", "items": ["torch", "map", "rope"], "extras": ["mug", "whistle", "blanket"] },
+    { "level": 2, "theme": "Baking", "items": ["flour", "sugar", "whisk"], "extras": ["bowl", "apron", "cinnamon"] },
+    { "level": 2, "theme": "Rainy day", "items": ["umbrella", "boots", "scarf"], "extras": ["mittens", "coat", "hat"] },
+    { "level": 2, "theme": "Bird feeder", "items": ["seeds", "string", "hook"], "extras": ["bell", "perch", "tray"] },
+    { "level": 2, "theme": "Letter", "items": ["paper", "envelope", "stamp"], "extras": ["ink", "ribbon", "card"] },
+    { "level": 2, "theme": "Fishing", "items": ["hook", "float", "net"], "extras": ["reel", "bucket", "line"] },
+    { "level": 2, "theme": "Music", "items": ["flute", "drum", "bell"], "extras": ["triangle", "whistle", "shaker"] },
+    { "level": 2, "theme": "Laundry", "items": ["socks", "pegs", "soap"], "extras": ["basket", "towel", "shirt"] },
+
+    { "level": 3, "theme": "Hike", "items": ["map", "flask", "compass", "socks"], "extras": ["torch", "whistle", "hat", "apple"] },
+    { "level": 3, "theme": "Kitchen", "items": ["ladle", "pan", "salt", "kettle"], "extras": ["sieve", "pepper", "mug", "tray"] },
+    { "level": 3, "theme": "Painting", "items": ["canvas", "brush", "palette", "rag"], "extras": ["easel", "sponge", "pencil", "jar"] },
+    { "level": 3, "theme": "Workshop", "items": ["hammer", "nails", "saw", "glue"], "extras": ["ruler", "pliers", "file", "clamp"] },
+    { "level": 3, "theme": "Market", "items": ["pears", "cheese", "honey", "bread"], "extras": ["plums", "eggs", "olives", "jam"] },
+    { "level": 3, "theme": "Sewing box", "items": ["scissors", "thread", "thimble", "tape"], "extras": ["pins", "chalk", "buttons", "ribbon"] },
+    { "level": 3, "theme": "Pond dipping", "items": ["net", "jar", "boots", "lens"], "extras": ["bucket", "notebook", "rope", "hat"] },
+    { "level": 3, "theme": "Party", "items": ["candles", "balloons", "plates", "ribbon"], "extras": ["cups", "cards", "bunting", "napkins"] },
+
+    { "level": 4, "theme": "Winter walk", "items": ["mittens", "scarf", "flask", "sled"], "extras": ["boots", "hat", "blanket", "lantern"] },
+    { "level": 4, "theme": "Garden shed", "items": ["rake", "twine", "labels", "can"], "extras": ["trowel", "pots", "gloves", "seeds"] },
+    { "level": 4, "theme": "Rowing boat", "items": ["rope", "oar", "lamp", "anchor"], "extras": ["sail", "bucket", "chart", "bell"] },
+    { "level": 4, "theme": "Study", "items": ["atlas", "ruler", "ink", "lamp"], "extras": ["globe", "blotter", "pencil", "folder"] },
+    { "level": 4, "theme": "Bakery order", "items": ["rye", "rolls", "tarts", "buns"], "extras": ["scones", "pies", "loaves", "crumpets"] },
+    { "level": 4, "theme": "Orchard", "items": ["ladder", "basket", "crate", "shears"], "extras": ["sack", "gloves", "twine", "net"] },
+    { "level": 4, "theme": "Parcel", "items": ["paper", "label", "string", "wax"], "extras": ["stamp", "tape", "card", "ink"] },
+    { "level": 4, "theme": "Stargazing", "items": ["blanket", "flask", "chart", "torch"], "extras": ["scope", "mittens", "stool", "notebook"] },
+
+    { "level": 5, "theme": "Expedition", "items": ["tent", "stove", "map", "rope", "flask"], "extras": ["compass", "lantern", "axe", "mug"] },
+    { "level": 5, "theme": "Feast", "items": ["plates", "cups", "bread", "cheese", "pears"], "extras": ["forks", "jam", "cloth", "olives"] },
+    { "level": 5, "theme": "Pottery", "items": ["clay", "wire", "sponge", "roller", "apron"], "extras": ["glaze", "wheel", "rag", "brush"] },
+    { "level": 5, "theme": "Voyage", "items": ["chart", "lamp", "rope", "biscuits", "bell"], "extras": ["sail", "oar", "hook", "net"] },
+    { "level": 5, "theme": "Harvest", "items": ["apples", "sacks", "crates", "twine", "ladder"], "extras": ["basket", "shears", "cart", "gloves"] },
+    { "level": 5, "theme": "Library", "items": ["atlas", "novel", "poems", "stamps", "cards"], "extras": ["ledger", "lamp", "ribbon", "pencil"] },
+    { "level": 5, "theme": "Carpentry", "items": ["chisel", "mallet", "plane", "oil", "rag"], "extras": ["clamp", "nails", "brush", "ruler"] },
+    { "level": 5, "theme": "Greenhouse", "items": ["pots", "soil", "seeds", "labels", "mister"], "extras": ["trowel", "cane", "twine", "gloves"] }
+  ]
+}

@@ -1,0 +1,441 @@
+{
+  "app": {
+    "title": "Let It Be",
+    "tagline": "A small daily practice.",
+    "sprouts": "Sprouts",
+    "sproutOne": "Sprout",
+    "continue": "Continue",
+    "next": "Next",
+    "done": "Done",
+    "close": "Close",
+    "back": "Back to the garden",
+    "level": "Level"
+  },
+  "nav": {
+    "home": "Garden",
+    "progress": "Progress",
+    "checkin": "Check-in",
+    "settings": "Settings",
+    "guide": "Guide"
+  },
+  "onboarding": {
+    "step": "Step {n} of {total}",
+    "noticeTitle": "Before you start",
+    "notice": "Let It Be is a practice game based on ideas from OCD therapy. It is not treatment and cannot diagnose anything. If worries or rituals take up more than an hour a day or get in the way of your life, a therapist trained in ERP can help.",
+    "noticeButton": "I understand",
+    "demoTitle": "Meet the Whatif",
+    "demoIntro": "This is a Whatif. Tap it and see.",
+    "demoGrew": "It grew. Now leave it alone.",
+    "demoGrewMore": "Louder again. Hands off this time.",
+    "demoWaiting": "Keep waiting. Do nothing.",
+    "demoAsleep": "You left it alone. That is the practice.",
+    "demoNote": "It comes back on other days. That is expected.",
+    "demoBubble": "What if...?",
+    "demoBubbleLoud": "WHAT IF...?",
+    "timeTitle": "Pick a practice time",
+    "timeBody": "One short session a day. Pick a time you can keep.",
+    "timeLabel": "Daily practice time",
+    "reminderLabel": "Remind me at this time",
+    "reminderHint": "Reminders show while the game is open or installed.",
+    "reminderDenied": "Notifications are off. The garden will show a note instead.",
+    "timeButton": "Set time",
+    "baselineTitle": "First check-in",
+    "baselineBody": "Eighteen quick questions. It gives the chart a starting point.",
+    "baselineButton": "Start check-in"
+  },
+  "home": {
+    "start": "Start today's practice",
+    "locked": "That's today's practice. See you tomorrow.",
+    "resume": "Carry on with today's practice",
+    "urge": "A Whatif showed up",
+    "urgePending": "Your timer ended. Two quick taps.",
+    "urgeRunning": "A timer is running",
+    "practiceTime": "Practice time {time}",
+    "itsTime": "It is practice time.",
+    "sproutCount": "{n} Sprouts",
+    "gardenLabel": "Your garden",
+    "gardenEmpty": "Bare soil. Practice grows it.",
+    "checkinDue": "Weekly check-in is open.",
+    "urgeHint": "For a real urge to check, reread or ask"
+  },
+  "moss": {
+    "greetings": [
+      "Two short games today. Let's begin.",
+      "Here is today's practice. Hands ready.",
+      "Same as always. Carry on while it is there.",
+      "Today's practice is short. Begin when ready.",
+      "The Whatif may show up. Keep going anyway.",
+      "No right way today. Just keep moving.",
+      "Two games, then we stop. Off we go."
+    ],
+    "between": "One game down. One more.",
+    "sessionEnd": "That's today's practice. See you tomorrow.",
+    "keptGoing": "You kept going.",
+    "busyDay": "Lots of Whatifs today. Practice still counts. A therapist can help with busy days.",
+    "urgeStay": "It can stay. Go back to what you were doing.",
+    "urgeNeutral": "Logged. Back to your day.",
+    "checkinDone": "Check-in saved. See you in a week."
+  },
+  "training": {
+    "begin": "Begin",
+    "gameOf": "Game {n} of 2",
+    "reflectTitle": "How hard was it to keep going?",
+    "reflectScale": [
+      "Very easy",
+      "Easy",
+      "Medium",
+      "Hard",
+      "Very hard"
+    ],
+    "reflectNote": "This is logged. It is not scored.",
+    "sproutsAdded": "{n} Sprouts go to the garden.",
+    "sproutsAddedOne": "1 Sprout goes to the garden.",
+    "sproutsAddedNone": "No Sprouts this time. The practice still happened.",
+    "toGarden": "Back to the garden",
+    "levelUp": "{game} moves to level {level}."
+  },
+  "games": {
+    "oneRead": {
+      "name": "One Read",
+      "intro": "Read each card once. Then it is gone.",
+      "ready": "Show the first card",
+      "gone": "The card is gone.",
+      "next": "Next",
+      "questionLead": "About an earlier card",
+      "match": "That matches the card.",
+      "noMatch": "The card said something else.",
+      "saved": "Answer saved.",
+      "practice": "You read it once. That's the practice.",
+      "whatif": "What if you missed something?",
+      "end": "Eight cards, one read each. Done."
+    },
+    "sealedBox": {
+      "name": "Sealed Box",
+      "intro": "Pack the box from memory. Seal it. Let it go.",
+      "ready": "Show the first list",
+      "packTitle": "Pack these",
+      "memorise": "Look once. The list will leave.",
+      "choose": "Tap what goes in the box.",
+      "packed": "{n} of {total} packed",
+      "seal": "Seal the box",
+      "peek": "Peek inside",
+      "onTheWay": "The box is on its way.",
+      "delivered": "Box delivered. Next box.",
+      "deliveredLast": "Box delivered.",
+      "opened": "Box opened. Next box.",
+      "openedLast": "Box opened.",
+      "inside": "Inside the box",
+      "next": "Next box",
+      "finish": "Done",
+      "whatifs": [
+        "What if you forgot one?",
+        "What if it's the wrong one?",
+        "What if you should look?",
+        "What if you packed it badly?",
+        "Just one quick look?",
+        "What if something is missing?"
+      ],
+      "end": "Four boxes sent. Done."
+    },
+    "thoughtSorter": {
+      "name": "Thought Sorter",
+      "intro": "Pull a leaf close to keep it. Flick it away to let it go.",
+      "ready": "Show the first leaf",
+      "keep": "Keep",
+      "letGo": "Let go",
+      "keepHint": "Pull down to keep",
+      "letGoHint": "Flick up to let go",
+      "sorted": "Done. Next one.",
+      "intendedKeep": "That one was for keeping.",
+      "intendedLetGo": "That one was for letting go.",
+      "keptPile": "Kept",
+      "end": "Ten leaves sorted. Done."
+    },
+    "letItSit": {
+      "name": "Let It Sit",
+      "intro": "Water the plant that glows. Leave the Whatifs alone.",
+      "ready": "Pick up the watering can",
+      "task": "Tap the glowing pot.",
+      "potLabel": "Pot {n}",
+      "whatifLabel": "A Whatif",
+      "end": "Watering done. The Whatifs stayed. So did you."
+    }
+  },
+  "urge": {
+    "title": "A Whatif showed up",
+    "rateBefore": "How strong is the discomfort right now?",
+    "rateAfter": "How strong is it now, 0 to 10?",
+    "ratingLabel": "Discomfort, 0 to 10",
+    "typeTitle": "What are you pulled to do?",
+    "types": {
+      "check": "Check",
+      "reread": "Reread",
+      "search": "Search online",
+      "ask": "Ask someone",
+      "other": "Other"
+    },
+    "delayTitle": "How long will you wait?",
+    "minutes": "{n} min",
+    "start": "Start the wait",
+    "leave": "Put this down and carry on. Come back when it ends.",
+    "remaining": "Time left",
+    "timerDone": "The wait is over",
+    "actedTitle": "Did you act on the urge?",
+    "acted": {
+      "yes": "Yes",
+      "no": "No",
+      "partly": "Partly"
+    },
+    "save": "Save",
+    "cooldown": "A timer just ended. The next one opens at {time}.",
+    "notifyTitle": "Let It Be",
+    "notifyBody": "The timer ended. Two quick taps.",
+    "intro": "You feel an urge to check, reread, search or ask. Put a wait in front of it.",
+    "stepsTitle": "How this works",
+    "steps": [
+      "Rate it and pick a wait.",
+      "Put this down. Go back to your day.",
+      "When the timer ends, rate it again."
+    ],
+    "why": "The urge says now. The wait is the practice.",
+    "scaleLow": "barely there",
+    "scaleHigh": "as strong as it gets",
+    "optional": "Optional",
+    "actedHint": "All three answers count the same.",
+    "rateHint": "Slide to set a number."
+  },
+  "checkin": {
+    "title": "Weekly check-in",
+    "standInNotice": "Draft questions. Not a validated scale yet.",
+    "progress": "{n} of {total} answered",
+    "submit": "Save check-in",
+    "total": "Total: {n} of {max}",
+    "locked": "The next check-in opens on {date}.",
+    "chartTitle": "Totals over time",
+    "chartEmpty": "One point so far. The line starts next week.",
+    "chartNone": "No check-ins yet.",
+    "open": "Start the check-in",
+    "sprout": "1 Sprout goes to the garden."
+  },
+  "progress": {
+    "title": "Progress",
+    "intro": "Practice and symptoms are tracked apart. Neither is a score.",
+    "peekTitle": "Peek rate",
+    "peekBody": "Share of boxes opened, per Sealed Box session.",
+    "tapTitle": "Whatif taps",
+    "tapBody": "Taps on Whatifs, per Let It Sit round.",
+    "urgeTitle": "Urge delays",
+    "urgeBody": "Rating before the wait, and after it.",
+    "urgeBefore": "Before",
+    "urgeAfter": "After",
+    "sessionsTitle": "Sessions per week",
+    "sessionsBody": "Daily practices finished in each of the last eight weeks.",
+    "empty": "Nothing logged here yet.",
+    "checkinLink": "Check-in chart",
+    "totalSessions": "{n} practices so far",
+    "acted": "Acted on the urge: yes {yes}, partly {partly}, no {no}"
+  },
+  "settings": {
+    "title": "Settings",
+    "practiceTime": "Daily practice time",
+    "reminder": "Reminder at practice time",
+    "sound": "Soft ambient sound",
+    "levelsTitle": "Game levels",
+    "levelsBody": "Levels rise with practice. You can lower one at any time.",
+    "lower": "Lower {game} level",
+    "raise": "Raise {game} level",
+    "helpTitle": "Help and information",
+    "findHelp": "Find help",
+    "why": "Why won't the game reassure me?",
+    "about": "What this game is",
+    "dataTitle": "Your data",
+    "dataBody": "Everything stays in this browser. Nothing is sent anywhere.",
+    "exportJson": "Export as JSON",
+    "exportCsv": "Export as CSV",
+    "delete": "Delete all data",
+    "deleteConfirmTitle": "Delete everything?",
+    "deleteConfirmBody": "The garden, logs and check-ins are removed from this device.",
+    "deleteYes": "Delete all data",
+    "deleteNo": "Keep my data",
+    "on": "On",
+    "off": "Off",
+    "dailyTitle": "Daily practice"
+  },
+  "help": {
+    "title": "Find help",
+    "body": "A therapist trained in ERP can help with worries and rituals.",
+    "directoryLabel": "International OCD Foundation therapist directory",
+    "directoryUrl": "https://iocdf.org/find-help/",
+    "directoryNote": "This link opens another website.",
+    "crisisTitle": "In a crisis",
+    "crisis": "In the US, call or text 988.",
+    "crisisOther": "Elsewhere, call your local emergency number.",
+    "riseNote": "Your check-in totals have gone up three times. This page is here if you want it."
+  },
+  "why": {
+    "title": "Why won't the game reassure me?",
+    "lines": [
+      "Reassurance works like a ritual: it eases the worry briefly, then the worry asks again.",
+      "So nothing here tells you how things will turn out.",
+      "The practice is carrying on while the question stays open."
+    ]
+  },
+  "about": {
+    "title": "What this game is",
+    "isTitle": "It is",
+    "isLines": [
+      "A practice aid for checking, rereading, reassurance-seeking and health worry.",
+      "A few minutes a day, then it locks."
+    ],
+    "isNotTitle": "It is not",
+    "isNotLines": [
+      "Treatment, a diagnosis, or a replacement for a therapist.",
+      "A relaxation app. Feeling calm is not the goal."
+    ]
+  },
+  "dev": {
+    "title": "Developer tools",
+    "note": "Only shown in development builds.",
+    "nextDay": "Jump to tomorrow",
+    "nextWeek": "Jump 7 days",
+    "unlock": "Unlock today's practice",
+    "addSprouts": "Add 25 Sprouts",
+    "endTimer": "End the running timer now",
+    "playGame": "Open {game} alone",
+    "setLevel": "Set every game to level {n}",
+    "offset": "Day offset: {n}",
+    "resetTutorials": "Show tutorials again"
+  },
+  "guide": {
+    "title": "How it works",
+    "ideaTitle": "The idea",
+    "idea": [
+      {
+        "mood": "alert",
+        "title": "A Whatif shows up",
+        "body": "A worry arrives as a question. What if you got it wrong?"
+      },
+      {
+        "mood": "loud",
+        "title": "Answering makes it louder",
+        "body": "Checking, rereading or asking quiets it briefly. Then it asks again."
+      },
+      {
+        "mood": "sitting",
+        "title": "Leaving it alone is the practice",
+        "body": "You carry on with the question still open. That is the skill."
+      }
+    ],
+    "dayTitle": "What you do here",
+    "day": [
+      {
+        "key": "training",
+        "title": "Daily practice",
+        "body": "Two short games, about four minutes. Once a day, then it locks."
+      },
+      {
+        "key": "urge",
+        "title": "A Whatif showed up",
+        "body": "For a real urge to check or ask. You set a wait, then leave."
+      },
+      {
+        "key": "garden",
+        "title": "The garden",
+        "body": "Sprouts come from carrying on. Never from being right or feeling calm."
+      },
+      {
+        "key": "checkin",
+        "title": "Weekly check-in",
+        "body": "Eighteen questions, once a week. It records. It does not score."
+      }
+    ],
+    "gamesTitle": "The four games",
+    "gamesBody": "Each one practises a single habit. Two are picked for you each day.",
+    "youDo": "You do",
+    "practises": "It practises",
+    "showMe": "Show me how",
+    "games": {
+      "oneRead": {
+        "does": "Read a sentence once, then move on.",
+        "practises": "Moving on without rereading."
+      },
+      "sealedBox": {
+        "does": "Pack a box, seal it, and don't look inside.",
+        "practises": "Not checking while unsure."
+      },
+      "thoughtSorter": {
+        "does": "Sort thoughts. Keep some, let others drift off.",
+        "practises": "Treating a worry as a thought, with room for doubt."
+      },
+      "letItSit": {
+        "does": "Water plants while Whatifs pop up.",
+        "practises": "Staying with the task, not the worry."
+      }
+    },
+    "knowTitle": "Worth knowing",
+    "know": [
+      "The game never says things will turn out well. That is on purpose.",
+      "Feeling calm is not the goal. Carrying on is.",
+      "One session a day is all of it. More does not earn more.",
+      "It is practice, not treatment. A therapist trained in ERP can do more."
+    ],
+    "onboardTitle": "How this works",
+    "onboardNote": "The Guide button in the garden explains more."
+  },
+  "tutorial": {
+    "title": "How to play",
+    "link": "How to play",
+    "next": "Next",
+    "back": "Back",
+    "done": "Got it",
+    "skip": "Skip",
+    "step": "Step {n} of {total}",
+    "whyLabel": "Why this game",
+    "leaveIt": "Leave it",
+    "tap": "Tap",
+    "oneRead": {
+      "steps": [
+        "A sentence shows on a card. Read it once.",
+        "The card flips away. It does not come back.",
+        "Tap Next and carry on, sure or not."
+      ],
+      "sample": "The kettle whistles when the water boils.",
+      "note": "Sometimes a question follows. Often you won't hear if it matched.",
+      "why": "Rereading chases a feeling of being sure. Here you practise moving on without it."
+    },
+    "sealedBox": {
+      "steps": [
+        "A short list shows once. Pack those things from memory.",
+        "Seal the box. It sets off, and a Whatif tags along.",
+        "Peek inside stays on screen. The practice is leaving it."
+      ],
+      "sample": [
+        "apple",
+        "sandwich",
+        "napkin"
+      ],
+      "note": "Most boxes are never opened. You won't learn if you packed it right.",
+      "why": "Checking settles a doubt for a moment. Here you practise letting the doubt ride along."
+    },
+    "thoughtSorter": {
+      "steps": [
+        "A thought shows on a leaf.",
+        "Pull it down to keep thoughts that leave room for doubt.",
+        "Flick it up to let go of thoughts that demand certainty."
+      ],
+      "sampleKeep": "I can carry on without being sure.",
+      "sampleLetGo": "I have to check until it feels right.",
+      "note": "If a leaf went the other way, Moss says so. No marks either way.",
+      "why": "How you treat a worry shapes what it does next. Here you practise leaving room for doubt."
+    },
+    "letItSit": {
+      "steps": [
+        "Water the pot that glows. That is your task.",
+        "Whatifs pop up. Tap one and it grows and brings another.",
+        "Leave one alone and it sits, yawns and dozes off."
+      ],
+      "note": "They never leave the screen. You keep watering anyway.",
+      "why": "Arguing with a worry feeds it. Here you practise staying with the task."
+    }
+  }
+}

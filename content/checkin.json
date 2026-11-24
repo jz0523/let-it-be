@@ -1,0 +1,27 @@
+{
+  "note": "STAND-IN ITEMS. These 18 items are original placeholder wording written for this build. They are NOT the OCI-R and are not a validated scale. The design doc calls for the OCI-R (Foa et al., 2002, Psychological Assessment 14(4), 485-496). Its reuse terms for a public app are unconfirmed, so its wording is not reproduced here. To install a licensed scale: replace 'instruction', 'labels' and 'items' with the official text, keep 18 items scored 0-4, and set 'validated' to true (this hides the in-app draft notice).",
+  "validated": false,
+  "scaleName": "Weekly check-in (draft items)",
+  "instruction": "Over the past week, how much did each of these bother you?",
+  "labels": ["Not at all", "A little", "Moderately", "A lot", "Extremely"],
+  "items": [
+    "Going back to make sure I had done something.",
+    "Reading the same lines more than once to be sure I took them in.",
+    "Asking someone to tell me things were all right.",
+    "Paying close attention to sensations in my body.",
+    "Finding it hard to move on without feeling certain.",
+    "Looking over my work again before I could let it go.",
+    "Rereading messages before or after sending them.",
+    "Searching online to settle a worry.",
+    "Thoughts I did not want kept coming back.",
+    "Replaying events in my head to make sure nothing went wrong.",
+    "Returning to doors, switches or appliances after leaving them.",
+    "Needing to understand something completely before continuing.",
+    "Asking the same question again in a different way.",
+    "Worrying about what a sensation might mean.",
+    "Feeling that something was not quite finished or not quite right.",
+    "Taking longer over tasks because of checking.",
+    "Trying hard to push a thought out of my mind.",
+    "Putting things off until I could feel sure."
+  ]
+}
